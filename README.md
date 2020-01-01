@@ -1,0 +1,2 @@
+# RefreshApplicationContext
+动态加载配置文件中的配置项到spring的applicationContext中
